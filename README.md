@@ -54,7 +54,4 @@ Focuses on the "Human Factor" of mining safety:
 * **Compensation Optimization:** Provides transparent data for insurance and worker compensation funds (like WCF), helping to reduce claims through verified prevention records.
 
 ---
-## 📸 System Preview
-![Main Dashboard](images/dashboard.png)
-![Risk Engine](images/risk_engine.png)
 
