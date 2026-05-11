@@ -53,5 +53,14 @@ Focuses on the "Human Factor" of mining safety:
 * **Cost Efficiency:** Minimizes "Unexpected Breakdowns," saving millions in lost production time.
 * **Compensation Optimization:** Provides transparent data for insurance and worker compensation funds (like WCF), helping to reduce claims through verified prevention records.
 
----
+---## 📸 Project Showcase
+
+### 1. Main Dashboard
+![System Dashboard](dash.png)
+
+### 2. Predictive Alerts
+![Risk Engine](risk.png)
+
+### 3. Safety Analytics
+![Data View](stats.png)
 
