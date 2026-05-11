@@ -1,4 +1,4 @@
-# MINING 4.0: Sentinel AI Safety Automation System 🛡️⚒️
+# MINING 4.0: SHK Predictive Maintenance & Workers Safety  Automation System 🛡️⚒️
 
 **Developed by:** Samwel Michael Shilinde  
 **Role:** Data Science Student  
@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Project Overview
-**Sentinel AI** is a real-time mining safety monitoring and automation system designed to minimize workplace accidents and prevent unexpected machine breakdowns. By integrating real-time data processing with automated alert dispatching, the system ensures a proactive approach to safety management in the mining sector.
+**SHK Predictive Maintenance & Workers Safety Automation System** is a real-time mining safety monitoring and automation system designed to minimize workplace accidents and prevent unexpected machine breakdowns. By integrating real-time data processing with automated alert dispatching, the system ensures a proactive approach to safety management in the mining sector.
 
 ## 🚀 Key Modules & Functionalities
 
